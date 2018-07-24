@@ -1,1 +1,33 @@
 /* add CSS class and element and selectors here */
+ body {
+      background-color: #FFC9E7;
+      font-size: 150%;
+ }
+ 
+  .myClass {
+      background-color: white;
+      color: yellow
+    }
+    
+  .myFavoriteLife {
+    font-family: Comic Sans MS;
+  }
+  
+  h3 {
+    font-size: 300%;
+  }
+  
+  html {
+    background-color: #E3F7FA;
+    color: #DAECEC;
+    text-shadow: 1px 3px white;
+    text-align: center;
+    font-family: Courier New;
+  }
+  
+  div {
+    border-style: inset;
+    border-color: #E3F7FA;
+  }
+  
+  
